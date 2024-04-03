@@ -1,0 +1,6 @@
+pinecone-client
+openai
+pymongo
+flask
+flask-cors
+Flask-HTTPAuth
