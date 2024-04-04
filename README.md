@@ -52,3 +52,11 @@ These instructions will help you set up and run the project on your local machin
    OPENAI_API_KEY='your_openai_api_key'
    PINECONE_API_KEY='your_pinecone_api_key'
    \`\`\`
+
+5. **Frontend Implementation**
+
+    find how to interact with the api in:
+
+    \`\`\`
+    docs/frontendexample.js
+    \`\`\`
