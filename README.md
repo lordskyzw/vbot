@@ -27,21 +27,21 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository**
 
    \`\`\`
-   git clone https://github.com/lordskyzw/vbot.git
+   `git clone https://github.com/lordskyzw/vbot.git`
    cd vbot
    \`\`\`
 
 2. **Set up a virtual environment** (optional but recommended)
 
    \`\`\`
-   python -m venv vbot
-   source vbot/bin/activate  # On Windows use \`vbot\\Scripts\\activate\`
+   `python -m venv vbot`
+   `source vbot/bin/activate`  # On Windows use `\`vbot\\Scripts\\activate\`
    \`\`\`
 
 3. **Install required packages**
 
    \`\`\`
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    \`\`\`
 
 4. **Set environment variables**
@@ -49,8 +49,8 @@ These instructions will help you set up and run the project on your local machin
    Create a \`.env\` file in the project root and add the following variables:
 
    \`\`\`
-   OPENAI_API_KEY='your_openai_api_key'
-   PINECONE_API_KEY='your_pinecone_api_key'
+   `OPENAI_API_KEY='your_openai_api_key'`
+   `PINECONE_API_KEY='your_pinecone_api_key'`
    \`\`\`
 
 5. **Frontend Implementation**
@@ -58,5 +58,5 @@ These instructions will help you set up and run the project on your local machin
     find how to interact with the api in:
 
     \`\`\`
-    docs/frontendexample.js
+    `docs/frontendexample.js`
     \`\`\`
