@@ -28,6 +28,7 @@ These instructions will help you set up and run the project on your local machin
 
    
    `git clone https://github.com/lordskyzw/vbot.git`
+
    `cd vbot`
   
 
@@ -35,6 +36,7 @@ These instructions will help you set up and run the project on your local machin
 
   
    `python -m venv vbot`
+   
    `source vbot/bin/activate` 
     #### On Windows use: 
     `vbot\\Scripts\\activate\`
