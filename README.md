@@ -34,7 +34,7 @@ These instructions will help you set up and run the project on your local machin
 2. **Set up a virtual environment** (optional but recommended)
 
    \`\`\`
-   python -m venv vbit
+   python -m venv vbot
    source vbot/bin/activate  # On Windows use \`vbot\\Scripts\\activate\`
    \`\`\`
 
