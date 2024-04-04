@@ -35,7 +35,9 @@ These instructions will help you set up and run the project on your local machin
 
   
    `python -m venv vbot`
-   `source vbot/bin/activate`  # On Windows use `\`vbot\\Scripts\\activate\`
+   `source vbot/bin/activate` 
+    #### On Windows use: 
+    `vbot\\Scripts\\activate\`
    
 
 3. **Install required packages**
