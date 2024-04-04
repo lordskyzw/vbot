@@ -1,4 +1,4 @@
-# Flask Chat Application
+# VBOT 🧟‍♂️
 
 This Flask chat application provides an API for a chat interface that integrates with an AI model to assist users with inquiries about the Velocity Payments Infrastructure documentation and API. The application supports user authentication and maintains a history of interactions for each conversation.
 
